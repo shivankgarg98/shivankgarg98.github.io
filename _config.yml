@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shivank Garg's Blog
+title: Shivank Garg's Website
 email: shivank@FreeBSD.org
 description: >- # this means to ignore newlines until "baseurl:"
   shivank's personal github page containing his portfolio, blogs and notes about Systems, Linux and FreeBSD.
