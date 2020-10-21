@@ -7,4 +7,4 @@ Hello! I'm currenly a Dual-Degree student at IIT Kanpur. My major is Electrical 
 
 I like to listen Rock. The Bands I love: Pink Floyd, The Beatles, Poets of the fall, Porcupine Tree, Led Zeppelin ...
 
-My resume can be found here: https://github.com/shivankgarg98/resume/blob/master/16807658_ShivankGarg.pdf
+My resume can be found [here](/assets/resume.pdf)
