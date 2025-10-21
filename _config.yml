@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Shivank Garg's Website
-email: shivank@FreeBSD.org
-description: >- # this means to ignore newlines until "baseurl:"
-  shivank's personal github page containing his portfolio, blogs and notes about Systems, Linux and FreeBSD.
-twitter_username: Shivankgarg98
-github_username: shivankgarg98
+# email: shivank@FreeBSD.org
+# description: >- # this means to ignore newlines until "baseurl:"
+#   shivank's personal github page containing his portfolio, blogs and notes about Systems, Linux and FreeBSD.
+# twitter_username: Shivankgarg98
+# github_username: shivankgarg98
 minimal_mistakes_skin: dirt
 search: false
 
@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Shivank Garg"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software Engineer"
+  # avatar : "/assets/images/bio-photo.jpg"
+  # bio    : "Software Engineer"
   links:
     # - label: "My FreeBSD wiki"
     #   icon: "fab fa-freebsd"
